@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QQ红包</string>
+    <string name="service_name">开启抢红包辅助服务</string>
+    <string name="action_settings">Settings</string>
+    <string name="use_details">\n点击开启插件，打开QQ，进入有红包的群</string>
+    <string name="use_warning">外挂虽好，但请不要经常使用，免得失去了抢红包的乐趣！\n--------黄许飞</string>
+</resources>
